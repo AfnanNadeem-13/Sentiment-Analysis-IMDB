@@ -96,7 +96,6 @@ Feel free to contribute by improving the model, adding new features, or enhancin
 - **Kaggle** for providing the dataset
 
 ---
-🚀 **Project by [Your Name]** | 📅 **March 2025**
 
 
 
